@@ -16,7 +16,7 @@
 
 ## About Me
 
-- 📊 Interested in data, statistics, and building things around them
+- 🌍 Interested in Data, Statistics, WEB3 and Financial Engineering
 - 🧮 Working on projects involving valuation modeling and market data analysis
 - ✍️ Sharing thoughts on finance & data on Threads
 - 🌱 Currently learning statistics and linear algebra
