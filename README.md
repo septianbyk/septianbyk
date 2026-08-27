@@ -5,8 +5,8 @@
 <a href="https://www.threads.com/@septianbyk">
   <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
 </a>
-<a href="https://linktr.ee/septianbyk">
-  <img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
+<a href="https://www.linkedin.com/in/septianbayukustanto/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
@@ -59,7 +59,15 @@
 <a href="https://linktr.ee/septianbyk">
   <img src="https://img.shields.io/badge/-Linktree-1DE9B6?style=flat-square&logo=linktree&logoColor=white"/>
 </a>
-
+<a href="https://www.linkedin.com/in/septianbayukustanto/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/septianbyk/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:kustantoseptianbayu@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 </div>
 
 </div>
